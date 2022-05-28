@@ -40,12 +40,33 @@
 
 <a id="getting-started"></a>
 ## 🚀Getting Started
-- ```
+- Clone the git repository.
+```
+  git clone git@github.com:mansi2024/MYSecure.git.
+```
+- Creating the Virtual Environment.
+```
   pipenv shell
   
-  ```
-- 
+```
+- Installing All the requirements
+```
+  pip install -r requirements.txt
+```
+- Setting up the environment.
+```
+   $env:FLASK_APP="app.py"
+   $env:FLASK_ENV="development"
+   
+```
+- Run the Application.
+```
+   flask run
+```
 
+<a id="flow"></a>
+## 📋Application Flow
+- Re
  
 
 
