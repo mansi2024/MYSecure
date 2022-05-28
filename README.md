@@ -70,7 +70,7 @@
 #### - Welcome to MY-SECURE(First Page) 
  You can register from here and then login.
  
-<img width="300" height="100" alt="pic1" src="https://github.com/mansi2024/MYSecure/blob/master/Screenshot%20(49).png">
+<img width="1000" height="600" alt="pic1" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(49).png">
  
 #### - Registeration Page
 
