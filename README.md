@@ -33,15 +33,18 @@
 
 <a id="tech-stack"></a>
 ## 💻Tech Stack Used
-🔧Flask + 🔧Python - for Server-Side development.
-🔧JavaScript + 🔧HTML + 🔧CSS + 🔧Bootstrap5 - for frontend development
-🔧VisualStudioCode - IDE Used for development
+🔧Flask + 🔧Python - for Server-Side development.<br>
+🔧JavaScript + 🔧HTML + 🔧CSS + 🔧Bootstrap5 - for frontend development.<br>
+🔧VisualStudioCode - IDE Used for development.<br>
 &nbsp;
 
 <a id="getting-started"></a>
 ## 🚀Getting Started
-```
-  cd 
+- ```
+  pipenv shell
+  
+  ```
+- 
 
  
 
