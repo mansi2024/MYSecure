@@ -15,9 +15,7 @@
 📌 [Tech Stack Used](#tech-stack)<br>
 📌 [Getting Started](#getting-started)<br>
 📌 [Application Flow](#flow)<br>
-📌 [Hosting](#hosting)<br>
 📌 [Challanges faced and learnings](#challenges)<br>
-📌 [Future Scope](#scope)<br>
 📌 [Resources](#resources)<br>
 
 <a id="features"></a>
@@ -70,10 +68,47 @@
 #### - Welcome to MY-SECURE(First Page) 
  You can register from here and then login.
  
-<img width="1000" height="600" alt="pic1" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(49).png">
+<img width="1432" alt="pic1" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(49).png">
  
-#### - Registeration Page
+#### - Registeration Page (UI of Login Page is just similar)
 
-<img width="300" height="100" alt="pic2" src="https://github.com/mansi2024/MYSecure/blob/master/Screenshot%20(36).png">
+<img width="1432"  alt="pic2" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(36).png">
+&nbsp;
+<img width="1432" alt="pic3" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(37).png">
+
+### - Password Manager (Access)
+Now you have access to Password Manager tool
+
+<img width="1432" alt="pic4" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(40).png">
+
+### - Sign-Up and then Sign-in
+
+
+<img width="1432" alt="pic5" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(41).png">
+<img width="1432" alt="pic01" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(42).png">
+
+### - Add Password
+
+<img width="1432" alt="pic" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(45).png">
+
+### - Your Account
+Here you can add passwords , update your account deatails by clicking on Account.
+
+<img width="1432" alt="pic6" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(44).png">
+
+### - Your Dashboard
+Here all your Saved Password is where you can also update , delete your website details.
+
+<img width="1432" alt="pic7" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(51).png">
+
+<a id="challenges"></a>
+## Challenges Faced and Learnings
+- I don't know Flask and never built any application on it, So firstly I have learned Flask through Linkedln learning completed the flask essential training, made the URL shortener small application to understand it more and then started to build MY-SECURE.
+- I have faced problem in using Face Recognition Library but read documentation and successfully able to implement it.
+- I have faced a lot issues and errors while making login system using Flask but read the doocumentation of flask-login and some youtube videos really helped alot.
+- After I have made two seperate models like face recognition and password manager by thinking that I will be able to merge it but faced the issue and many errors due to may be version related issue, This has taken my lot of time and even upto 3-4 days. after that I have gotten the idea to host the password manager and embed the link in my first application.
+- I have learned a lot during Engage programm and fall in love with development and problem solving. It's overall a great experience.
+
+
 
 
