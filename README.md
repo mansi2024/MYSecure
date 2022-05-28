@@ -66,7 +66,14 @@
 
 <a id="flow"></a>
 ## 📋Application Flow
-- Re
+
+#### - Welcome to MY-SECURE(First Page) 
+ You can register from here and then login.
  
+<img width="800" height="500" alt="pic1" src="https://github.com/mansi2024/MYSecure/blob/master/Screenshot%20(49).png">
+ 
+#### - Registeration Page
+
+<img width="800" height="500" alt="pic2" src="https://github.com/mansi2024/MYSecure/blob/master/Screenshot%20(36).png">
 
 
