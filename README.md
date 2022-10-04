@@ -67,39 +67,34 @@
 
 #### - Welcome to MY-SECURE(First Page) 
  You can register from here and then login.
- 
-<img width="1432" alt="pic1" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(49).png">
+![image1](https://github.com/mansi2024/Images/blob/main/Screenshot%20(49).png)
  
 #### - Registeration Page (UI of Login Page is just similar)
-
-<img width="1432"  alt="pic2" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(36).png">
+![image2](https://github.com/mansi2024/Images/blob/main/Screenshot%20(36).png)
 &nbsp;
-<img width="1432" alt="pic3" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(37).png">
+![image3](https://github.com/mansi2024/Images/blob/main/Screenshot%20(37).png)
 
 ### - Password Manager (Access)
 Now you have access to Password Manager tool
+![image4](https://github.com/mansi2024/Images/blob/main/Screenshot%20(40).png)
 
-<img width="1432" alt="pic4" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(40).png">
 
 ### - Sign-Up and then Sign-in
 
-
-<img width="1432" alt="pic5" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(41).png">
-<img width="1432" alt="pic01" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(42).png">
+![image5](https://github.com/mansi2024/Images/blob/main/Screenshot%20(41).png)
+![image5](https://github.com/mansi2024/Images/blob/main/Screenshot%20(42).png)
 
 ### - Add Password
+![image6](https://github.com/mansi2024/Images/blob/main/Screenshot%20(45).png)
 
-<img width="1432" alt="pic" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(45).png">
 
 ### - Your Account
 Here you can add passwords , update your account deatails by clicking on Account.
-
-<img width="1432" alt="pic6" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(44).png">
+![image7](https://github.com/mansi2024/Images/blob/main/Screenshot%20(44).png)
 
 ### - Your Dashboard
 Here all your Saved Password is where you can also update , delete your website details.
-
-<img width="1432" alt="pic7" src="https://github.com/mansi2024/Images/blob/main/Screenshot%20(51).png">
+![image8](https://github.com/mansi2024/Images/blob/main/Screenshot%20(51).png)
 
 <a id="challenges"></a>
 ## Challenges Faced and Learnings
