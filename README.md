@@ -70,7 +70,7 @@
 ![image1](https://github.com/mansi2024/Images/blob/main/Screenshot%20(49).png)
  
 #### - Registeration Page (UI of Login Page is just similar)
-![image2](https://github.com/mansi2024/Images/blob/main/Screenshot%20(36).png)
+![Screenshot (36)](https://user-images.githubusercontent.com/87639872/195307551-09f4ccb8-d1e4-4d91-af56-07ae7f695d0d.png)
 &nbsp;
 ![image3](https://github.com/mansi2024/Images/blob/main/Screenshot%20(37).png)
 
