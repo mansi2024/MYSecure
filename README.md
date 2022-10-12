@@ -94,7 +94,7 @@ Here you can add passwords , update your account deatails by clicking on Account
 
 ### - Your Dashboard
 Here all your Saved Password is where you can also update , delete your website details.
-![image8](https://github.com/mansi2024/Images/blob/main/Screenshot%20(51).png)
+![Screenshot (51)](https://user-images.githubusercontent.com/87639872/195309738-9d584376-bf82-4851-a774-6bb24d44b6e7.png)
 
 <a id="challenges"></a>
 ## Challenges Faced and Learnings
