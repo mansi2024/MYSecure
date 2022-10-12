@@ -67,30 +67,30 @@
 
 #### - Welcome to MY-SECURE(First Page) 
  You can register from here and then login.
-![image1](https://github.com/mansi2024/Images/blob/main/Screenshot%20(49).png)
+![Screenshot (49)](https://user-images.githubusercontent.com/87639872/195309749-53db1774-f7a1-4632-a961-895c30307d24.png)
  
 #### - Registeration Page (UI of Login Page is just similar)
 ![Screenshot (36)](https://user-images.githubusercontent.com/87639872/195307551-09f4ccb8-d1e4-4d91-af56-07ae7f695d0d.png)
 &nbsp;
-![image3](https://github.com/mansi2024/Images/blob/main/Screenshot%20(37).png)
+![Screenshot (37)](https://user-images.githubusercontent.com/87639872/195309839-dee2f363-603b-4780-8151-198221c57004.png)
 
 ### - Password Manager (Access)
 Now you have access to Password Manager tool
-![image4](https://github.com/mansi2024/Images/blob/main/Screenshot%20(40).png)
+![Screenshot (40)](https://user-images.githubusercontent.com/87639872/195309789-28ce87fc-a3c0-4e50-8b74-685280b015d5.png)
 
 
 ### - Sign-Up and then Sign-in
 
-![image5](https://github.com/mansi2024/Images/blob/main/Screenshot%20(41).png)
-![image5](https://github.com/mansi2024/Images/blob/main/Screenshot%20(42).png)
+![Screenshot (41)](https://user-images.githubusercontent.com/87639872/195309781-563a98b6-4c51-47d2-8839-b258609ba124.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/87639872/195309779-49d22202-7615-4c73-9196-254721632d19.png)
 
 ### - Add Password
-![image6](https://github.com/mansi2024/Images/blob/main/Screenshot%20(45).png)
+![Screenshot (45)](https://user-images.githubusercontent.com/87639872/195309762-6de0634c-d579-4eb7-a15d-e78ef8af111d.png)
 
 
 ### - Your Account
 Here you can add passwords , update your account deatails by clicking on Account.
-![image7](https://github.com/mansi2024/Images/blob/main/Screenshot%20(44).png)
+![Screenshot (44)](https://user-images.githubusercontent.com/87639872/195309767-4dd48d41-f6d9-4d25-907b-5bb91d30cb19.png)
 
 ### - Your Dashboard
 Here all your Saved Password is where you can also update , delete your website details.
