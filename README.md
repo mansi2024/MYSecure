@@ -1,6 +1,6 @@
 # ✔️MYSecure : Microsoft Engage Project'22( With Face Recognition Technology)
 
-### MY-SECURE is the Web Application which helps you to manage your passwords as we generally have many passwords for different websites. So, It become difficult for us to remember them all and storing it any where is not secure at all. So, Here's MY-SECURE to help you to save and manage your passwords.
+### MY-SECURE is the Web Application that helps you manage your passwords as we generally have many passwords for different websites. So, It becomes difficult for us to remember them all, and storing it anywhere is not secure at all. So, Here's MY-SECURE to help you to save and manage your passwords.
 
 #### 🔗 Demo Video Link: https://youtu.be/DCnqAczzKlk
 #### 🔗 Web Application(Hosted): https://mysecure1.herokuapp.com/
@@ -66,10 +66,10 @@
 ## 📋Application Flow
 
 #### - Welcome to MY-SECURE(First Page) 
- You can register from here and then login.
+ You can register from here and then log in.
 ![Screenshot (49)](https://user-images.githubusercontent.com/87639872/195309749-53db1774-f7a1-4632-a961-895c30307d24.png)
  
-#### - Registeration Page (UI of Login Page is just similar)
+#### - Registration Page (UI of Login Page is just similar)
 ![Screenshot (36)](https://user-images.githubusercontent.com/87639872/195307551-09f4ccb8-d1e4-4d91-af56-07ae7f695d0d.png)
 &nbsp;
 ![Screenshot (37)](https://user-images.githubusercontent.com/87639872/195309839-dee2f363-603b-4780-8151-198221c57004.png)
@@ -89,20 +89,20 @@ Now you have access to Password Manager tool
 
 
 ### - Your Account
-Here you can add passwords , update your account deatails by clicking on Account.
+Here you can add passwords, and update your account details by clicking on Account.
 ![Screenshot (44)](https://user-images.githubusercontent.com/87639872/195309767-4dd48d41-f6d9-4d25-907b-5bb91d30cb19.png)
 
 ### - Your Dashboard
-Here all your Saved Password is where you can also update , delete your website details.
+Here all your Saved Password is where you can also update, and delete your website details.
 ![Screenshot (51)](https://user-images.githubusercontent.com/87639872/195309738-9d584376-bf82-4851-a774-6bb24d44b6e7.png)
 
-<a id="challenges"></a>
+<a id="challengthe es"></a>
 ## Challenges Faced and Learnings
-- I don't know Flask and never built any application on it, So firstly I have learned Flask through Linkedln learning completed the flask essential training, made the URL shortener small application to understand it more and then started to build MY-SECURE.
-- I have faced problem in using Face Recognition Library but read documentation and successfully able to implement it.
-- I have faced a lot issues and errors while making login system using Flask but read the doocumentation of flask-login and some youtube videos really helped alot.
-- After I have made two seperate models like face recognition and password manager by thinking that I will be able to merge it but faced the issue and many errors due to may be version related issue, This has taken my lot of time and even upto 3-4 days. after that I have gotten the idea to host the password manager and embed the link in my first application.
-- I have learned a lot during Engage programm and fall in love with development and problem solving. It's overall a great experience.
+- I don't know Flask and never built any application on it, So firstly I learned Flask through LinkedIn Learning completed the Flask essential training, made the URL shortener small application to understand it more, and then started to build MY-SECURE.
+- I have faced problems in using Face Recognition Library but read the documentation and was successfully able to implement it.
+- I have faced a lot of issues and errors while making a login system using Flask but reading the documentation of Flask-login and some YouTube videos helped alot.
+- After I had made two separate models face recognition and password manager thinking that I would be able to merge it but faced the issue and many errors due to a version related issue, This has taken a lot of time and even up to 3-4 days. after that, I got the idea to host the password manager and embed the link in my first application.
+- I have learned a lot during the Engage program and fell in love with development and problem-solving. It's overall a great experience.
 
 
 
