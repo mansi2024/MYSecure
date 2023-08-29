@@ -20,10 +20,10 @@
 
 <a id="features"></a>
 ## ✈️Features
-- Firstly, It's a two step Authentication application where first you need to register and login with your face and email id.
-- After, Logging-in with your face you will get access to MY-SECURE Password-Manager tool.
-- Again You need to sign-up and then sign-in then you will be able to store all your confidential and password in your account of MY-SECURE.
-- You can add details of different websites password, username, emails and website link with MY-SECURE.
+- Firstly, It's a two-step Authentication application where first you need to register and log in with your face and email ID.
+- After logging in with your face you will get access to the MY-SECURE Password-Manager tool.
+- Again You need to sign up and then sign in Then you will be able to store all your confidential passwords in your account of MY-SECURE.
+- You can add details of different websites' passwords, usernames, emails, and website links with MY-SECURE.
 - You can update your password and other information anytime.
 - You can also delete your website details anytime.
 - [Add more Features](#scope)
